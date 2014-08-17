@@ -1,0 +1,4 @@
+1. git repository setup for LAN/WAN
+2. New IDE for this application
+3. New dataBase support for this project
+4. new website launching
